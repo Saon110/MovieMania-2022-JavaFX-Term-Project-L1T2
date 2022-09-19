@@ -35,6 +35,29 @@ https://user-images.githubusercontent.com/63545621/190970141-34b6cc20-64d8-4efb-
 
 # 4. Search by Release Year
 
-![Screenshot (5)](https://user-images.githubusercontent.com/63545621/190971850-975dd524-5b51-4b62-a6a7-b04932e7f497.png)
+![Screenshot (4)](https://user-images.githubusercontent.com/63545621/190972017-a359a107-8286-4d10-9f48-946548ba1e45.png)
 
+# 5. Most Recent Movies
+
+![Screenshot (6)](https://user-images.githubusercontent.com/63545621/190972137-6853a9f0-8d05-4d60-80cc-db270f1bfe30.png)
+
+# 6. Movie with Maximum Revenue
+
+![Screenshot (7)](https://user-images.githubusercontent.com/63545621/190972236-6942a9a1-02e7-4483-92d9-189c0d8373c1.png)
+
+# 7. Add a new Movie
+
+![Screenshot (8)](https://user-images.githubusercontent.com/63545621/190972419-795dbe40-d601-45f6-aff0-231445494247.png)
+
+# 8. Transfer a Movie
+
+![Screenshot (12)](https://user-images.githubusercontent.com/63545621/190972506-c3ab82e4-afda-4676-a330-e2a82fcffc1f.png)
+
+# 9. Realtime Transfer
+
+![Screenshot (11)](https://user-images.githubusercontent.com/63545621/190972890-b298127e-5175-4bac-8a85-028dcc8f9e1c.png)
+
+# 10. Change Password
+
+![Screenshot (13)](https://user-images.githubusercontent.com/63545621/190972928-935f7a6c-9900-4abe-a989-f68e9cde4d28.png)
 
