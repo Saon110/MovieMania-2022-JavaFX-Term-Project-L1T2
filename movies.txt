@@ -1,0 +1,100 @@
+Toy Story,1995,Animation,Comedy,Family,81,Pixar Animation Studios,30000000,373554033
+Jumanji,1995,Adventure,Fantasy,Family,104,TriStar Pictures,65000000,262797249
+Heat,1995,Action,Crime,Drama,170,Regency Enterprises,60000000,187436818
+Se7en,1995,Crime,Mystery,Thriller,127,New Line Cinema,33000000,327311859
+The Usual Suspects,1995,Drama,Crime,Thriller,106,Blue Parrot Productions,6000000,23341568
+Mighty Aphrodite,1995,Comedy,Romance,,95,Miramax Films,15000000,6700000
+From Dusk Till Dawn,1996,Horror,Action,Thriller,108,A Band Apart,19000000,25836616
+Braveheart,1995,Action,Drama,History,177,Icon Entertainment International,72000000,210000000
+Apollo 13,1995,Drama,,,140,Imagine Entertainment,52000000,355237933
+Die Hard: With a Vengeance,1995,Action,Thriller,,128,Twentieth Century Fox Film Corporation,90000000,366101666
+First Knight,1995,Action,Adventure,Drama,134,Columbia Pictures,55000000,127600435
+Showgirls,1995,Drama,,,128,United Artists,45000000,20350754
+Waterworld,1995,Adventure,Action,,135,Universal Pictures,175000000,264218220
+Star Wars,1977,Adventure,Action,Science Fiction,121,Lucasfilm,11000000,775398007
+Pulp Fiction,1994,Thriller,Crime,,154,Miramax Films,8000000,213928762
+The Shawshank Redemption,1994,Drama,Crime,,142,Castle Rock Entertainment,25000000,28341469
+While You Were Sleeping,1995,Comedy,Drama,Romance,103,Caravan Pictures,17000000,182057016
+The Client,1994,Drama,Thriller,Crime,119,Regency Enterprises,45000000,117615211
+The Crow,1994,Fantasy,Action,Thriller,102,Miramax Films,15000000,94000000
+The Flintstones,1994,Fantasy,Comedy,Family,91,Universal Pictures,46000000,341631208
+Forrest Gump,1994,Comedy,Drama,Romance,142,Paramount Pictures,55000000,677945399
+The Lion King,1994,Family,Animation,Drama,89,Walt Disney Pictures,45000000,788241776
+Robin Hood: Men in Tights,1993,Comedy,,,104,Gaumont,20000000,35739755
+Schindler's List,1993,Drama,History,War,195,Universal Pictures,22000000,321365567
+Blade Runner,1982,Science Fiction,Drama,Thriller,117,Shaw Brothers,28000000,33139618
+The Nightmare Before Christmas,1993,Fantasy,Animation,Family,76,Tim Burton Productions,18000000,75634409
+True Romance,1993,Action,Thriller,Crime,120,Davis-Films,12500000,12281551
+Aladdin,1992,Animation,Family,Comedy,90,Walt Disney Pictures,28000000,504050219
+Terminator 2: Judgment Day,1991,Action,Thriller,Science Fiction,137,Lightstorm Entertainment,100000000,520000000
+Batman,1989,Fantasy,Action,,126,PolyGram Filmed Entertainment,35000000,411348924
+Snow White and the Seven Dwarfs,1937,Fantasy,Animation,Family,83,Walt Disney Productions,1488423,184925486
+Beauty and the Beast,1991,Romance,Family,Animation,84,Walt Disney Pictures,25000000,377350553
+Mission: Impossible,1996,Adventure,Action,Thriller,110,Paramount Pictures,80000000,457696359
+DragonHeart,1996,Fantasy,,,103,Universal Pictures,57000000,115267375
+Trainspotting,1996,Drama,Crime,,93,Miramax Films,4000000,16491080
+Independence Day,1996,Action,Adventure,Science Fiction,145,Twentieth Century Fox Film Corporation,75000000,816969268
+Chain Reaction,1996,Action,Drama,Science Fiction,107,Twentieth Century Fox Film Corporation,50000000,60209334
+The Godfather,1972,Drama,Crime,,175,Paramount Pictures,6000000,245066411
+Vertigo,1958,Mystery,Romance,Thriller,128,Paramount Pictures,2479000,28000000
+Rear Window,1954,Drama,Mystery,Thriller,112,Paramount Pictures,1000000,36764313
+The Wizard of Oz,1939,Adventure,Family,Fantasy,102,,2777000,33754967
+Citizen Kane,1941,Mystery,Drama,,119,RKO Radio Pictures,839727,23217674
+2001: A Space Odyssey,1968,Science Fiction,Mystery,Adventure,149,Stanley Kubrick Productions,10500000,68700000
+It's a Wonderful Life,1946,Drama,Family,Fantasy,130,RKO Radio Pictures,3180000,9644124
+Mary Poppins,1964,Comedy,Family,Fantasy,139,Walt Disney Productions,6000000,102272727
+Alice in Wonderland,1951,Animation,Adventure,Family,75,RKO Radio Pictures,3000000,572000000
+Die Hard,1988,Action,Thriller,,131,Twentieth Century Fox Film Corporation,28000000,140767956
+Platoon,1986,Drama,War,Action,120,Orion Pictures,6000000,138530565
+Basic Instinct,1992,Thriller,Mystery,,127,TriStar Pictures,49000000,352927224
+Sophie's Choice,1982,Drama,Romance,,151,Keith Barish Productions,12000000,30036000
+E.T. the Extra-Terrestrial,1982,Science Fiction,Adventure,Family,115,Universal Pictures,10500000,792965326
+Top Gun,1986,Action,Romance,War,110,Paramount Pictures,15000000,356830601
+The English Patient,1996,Drama,Romance,War,162,Miramax Films,27000000,231976425
+One Flew Over the Cuckoo's Nest,1975,Drama,,,133,United Artists,3000000,108981275
+The Empire Strikes Back,1980,Adventure,Action,Science Fiction,124,Lucasfilm,18000000,538400000
+The Princess Bride,1987,Adventure,Family,Fantasy,98,Act III Communications,16000000,30857814
+Raiders of the Lost Ark,1981,Adventure,Action,,115,Lucasfilm,18000000,389925971
+Aliens,1986,Horror,Action,Thriller,137,Twentieth Century Fox Film Corporation,18500000,183316455
+12 Angry Men,1957,Drama,,,96,United Artists,350000,1000000
+A Clockwork Orange,1971,Science Fiction,Drama,,136,Hawk Films,2200000,26589000
+GoodFellas,1990,Drama,Crime,,145,Winkler Films,25000000,46836394
+Alien,1979,Horror,Action,Thriller,117,Twentieth Century Fox Film Corporation,11000000,104931801
+On the Waterfront,1954,Crime,Drama,,108,Columbia Pictures,910000,9600000
+Psycho,1960,Drama,Horror,Thriller,109,Paramount Pictures,806948,32000000
+The Godfather: Part II,1974,Drama,Crime,,200,Paramount Pictures,13000000,47542841
+Annie Hall,1977,Comedy,Drama,Romance,93,United Artists,4000000,38251425
+The Terminator,1984,Action,Thriller,Science Fiction,108,Orion Pictures,6400000,78371200
+Dead Poets Society,1989,Drama,,,129,Touchstone Pictures,16400000,235860116
+The Shining,1980,Horror,Thriller,,144,Hawk Films,19000000,44017374
+Stand by Me,1986,Crime,Drama,,89,Columbia Pictures,8000000,52287414
+Back to the Future,1985,Adventure,Comedy,Science Fiction,116,Universal Pictures,19000000,381109762
+Highlander,1986,Adventure,Action,Fantasy,116,Davis-Panzer Productions,16000000,5900000
+High Noon,1952,Western,,,85,United Artists,730000,8000000
+Alien3,1992,Science Fiction,Action,Horror,114,Twentieth Century Fox Film Corporation,50000000,159773545
+Dracula,1992,Romance,Horror,,128,American Zoetrope,40000000,215862692
+The Omen,1976,Horror,Thriller,,111,Twentieth Century Fox Film Corporation,2800000,60922980
+Die Hard 2,1990,Action,Thriller,,124,Twentieth Century Fox Film Corporation,70000000,240031094
+Batman Returns,1992,Action,Fantasy,,126,PolyGram Filmed Entertainment,80000000,280000000
+Jaws,1975,Horror,Thriller,Adventure,124,Universal Pictures,7000000,470654000
+Child's Play,1988,Horror,Thriller,,87,United Artists,9000000,44196684
+Jaws 3-D,1983,Thriller,Horror,,99,Universal Pictures,20500000,87987055
+Mars Attacks!,1996,Comedy,Fantasy,Science Fiction,106,Tim Burton Productions,70000000,101371017
+The Last of the Mohicans,1992,Action,Adventure,Drama,112,Morgan Creek Productions,40000000,75505856
+The Fifth Element,1997,Adventure,Fantasy,Action,126,Columbia Pictures,90000000,263920180
+Batman & Robin,1997,Action,Crime,Fantasy,125,PolyGram Filmed Entertainment,125000000,238207122
+Men in Black,1997,Action,Adventure,Comedy,98,Amblin Entertainment,90000000,589390539
+The Hunt for Red October,1990,Action,Adventure,Thriller,134,Paramount Pictures,30000000,199200000
+Alien: Resurrection,1997,Science Fiction,Horror,Action,109,Twentieth Century Fox Film Corporation,70000000,162000000
+Good Will Hunting,1997,Drama,,,126,Miramax Films,10000000,225933435
+Titanic,1997,Drama,Romance,Thriller,194,Paramount Pictures,200000000,1845034188
+Tomorrow Never Dies,1997,Adventure,Action,Thriller,119,Eon Productions,110000000,333011068
+Jackie Brown,1997,Comedy,Crime,Romance,154,Miramax Films,12000000,39673162
+The Big Lebowski,1998,Comedy,Crime,,117,Gramercy Pictures,15000000,46189568
+Six Days Seven Nights,1998,Action,Adventure,Comedy,98,Caravan Pictures,70000000,164000000
+Mulan,1998,Animation,Family,Adventure,88,Walt Disney Pictures,90000000,304320254
+Child's Play 3,1991,Thriller,Horror,Action,90,Universal Pictures,13000000,20560255
+The Godfather: Part III,1990,Crime,Drama,Thriller,162,Paramount Pictures,54000000,136766062
+Saving Private Ryan,1998,Drama,History,War,169,Paramount Pictures,70000000,481840909
+The Jungle Book,1967,Family,Animation,Adventure,78,Walt Disney Pictures,4000000,205843612
+The Little Mermaid,1989,Animation,Family,,83,Walt Disney Pictures,40000000,222300000
