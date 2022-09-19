@@ -9,7 +9,7 @@ A simple desktop application with minimalistic UI capable of maintaining a file 
 1. Download the folder as zip and unzip it in your device.
 2. Open the project folder with Intellij Idea.
 3. File -> Project Structure -> JDK : If No JDK is selected, select your convenient JDK.
-4. File -: Settings -> Libraries -> Global Libraries, Add all jar files in your javafx lib folder by using the "+" button.
+4. File -> Settings -> Libraries -> Global Libraries, Add all jar files in your javafx lib folder by using the "+" button.
 5. Run the server.main() function first.
 6. Then run the client.main() function. ( Note that reversing the order will generate an error. )
 7. Use according to the video.
