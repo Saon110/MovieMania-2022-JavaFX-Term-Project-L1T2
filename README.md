@@ -11,4 +11,10 @@ Steps:
 4. File -: Settings -> Libraries -> Global Libraries, Add all jar files in your javafx lib folder by using the "+" button.
 5. Run the server.main() function first.
 6. Then run the client.main() function. ( Note that reversing the order will generate an error. )
-7. Use according to the video.
+7. Use according to the video.\
+
+# Demonstration
+
+
+https://user-images.githubusercontent.com/63545621/190970141-34b6cc20-64d8-4efb-a303-91968d6d9866.mp4
+
