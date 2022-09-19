@@ -13,7 +13,7 @@ A simple desktop application with minimalistic UI capable of maintaining a file 
 5. Run the server.main() function first.
 6. Then run the client.main() function. ( Note that reversing the order will generate an error. )
 7. Use according to the video.
-8. To run multiple clients at the same time, Edit configurations -> Allow Multiple Instances
+8. To run multiple clients at the same time, Upper right corner -> Dropdown box just left to the run button -> Edit configurations -> Modify Options -> Allow Multiple Instances
 
 # Demonstration
 
