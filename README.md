@@ -61,3 +61,10 @@ https://user-images.githubusercontent.com/63545621/190970141-34b6cc20-64d8-4efb-
 
 ![Screenshot (13)](https://user-images.githubusercontent.com/63545621/190972928-935f7a6c-9900-4abe-a989-f68e9cde4d28.png)
 
+# How to Thank
+
+Hello dear human, if this repository is beneficial for you in any possible way, I am happy. Happy in my heart to help you. Thanks for visiting the repository. If you want to thank me, no coffee or candy needed, just do care to star the repository. 
+
+# Thanks Again
+# Love Life
+# Good Bye, Better Bye, Best Bye
