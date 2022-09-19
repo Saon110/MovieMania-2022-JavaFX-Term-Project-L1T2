@@ -1,0 +1,100 @@
+Toy Story,https://www.youtube.com/embed/rNk1Wi8SvNc
+Jumanji,https://www.youtube.com/embed/2QKg5SZ_35I
+Heat,https://www.youtube.com/embed/2GfZl4kuVNI
+Se7en,https://www.youtube.com/embed/znmZoVkCjpI
+The Usual Suspects,https://www.youtube.com/embed/oiXdPolca5w
+Mighty Aphrodite,https://www.youtube.com/embed/6hsIc9reo7k
+From Dusk Till Dawn,https://www.youtube.com/embed/6RF0hYk7tc8
+Braveheart,https://www.youtube.com/embed/1NJO0jxBtMo
+Apollo 13,https://www.youtube.com/embed/KtEIMC58sZo
+Die Hard: With a Vengeance,https://www.youtube.com/embed/gQ0uSh2Hgcs
+First Knight,https://www.youtube.com/embed/zO1_r6slUlk
+Showgirls,https://www.youtube.com/embed/yAvd8Xhn6iY
+Waterworld,https://www.youtube.com/embed/NpKbULrB9Z8
+Star Wars,https://www.youtube.com/embed/R8XBMj4P4m0
+Pulp Fiction,https://www.youtube.com/embed/s7EdQ4FqbhY
+The Shawshank Redemption,https://www.youtube.com/embed/NmzuHjWmXOc
+While You Were Sleeping,https://www.youtube.com/embed/nsJxyUvkB_E
+The Client,https://www.youtube.com/embed/A6Ru1zDsws0
+The Crow,https://www.youtube.com/embed/N5uPZ7ocsqA
+The Flintstones,https://www.youtube.com/embed/pMnEbfzllso
+Forrest Gump,https://www.youtube.com/embed/bLvqoHBptjg
+The Lion King,https://www.youtube.com/embed/7TavVZMewpY
+Robin Hood: Men in Tights,https://www.youtube.com/embed/dX4Ik-cyp-I
+Schindler's List,https://www.youtube.com/embed/mxphAlJID9U
+Blade Runner,https://www.youtube.com/embed/gCcx85zbxz4
+The Nightmare Before Christmas,https://www.youtube.com/embed/wr6N_hZyBCk
+True Romance,https://www.youtube.com/embed/_wNYNDzKpuQ
+Aladdin,https://www.youtube.com/embed/VcBllhVj1eA
+Terminator 2: Judgment Day,https://www.youtube.com/embed/CRRlbK5w8AE
+Batman,https://www.youtube.com/embed/mqqft2x_Aa4
+Snow White and the Seven Dwarfs,https://www.youtube.com/embed/5fzZFQBXSLM
+Beauty and the Beast,https://www.youtube.com/embed/e3Nl_TCQXuw
+Mission: Impossible,https://www.youtube.com/embed/XgPJe73mOv0
+DragonHeart,https://www.youtube.com/embed/iRjSw-4qcgM
+Trainspotting,https://www.youtube.com/embed/8LuxOYIpu-I
+Independence Day,https://www.youtube.com/embed/B1E7h3SeMDk
+Chain Reaction,https://www.youtube.com/embed/jrjsVGkI2PI
+The Godfather,https://www.youtube.com/embed/UaVTIH8mujA
+Vertigo,https://www.youtube.com/embed/Z5jvQwwHQNY
+Rear Window,https://www.youtube.com/embed/m01YktiEZCw
+The Wizard of Oz,https://www.youtube.com/embed/H_3T4DGw10U
+Citizen Kane,https://www.youtube.com/embed/8dxh3lwdOFw
+2001: A Space Odyssey,https://www.youtube.com/embed/oR_e9y-bka0
+It's a Wonderful Life,https://www.youtube.com/embed/iLR3gZrU2Xo
+Mary Poppins,https://www.youtube.com/embed/YfkEQDPlb8g
+Alice in Wonderland,https://www.youtube.com/embed/9POCgSRVvf0
+Die Hard,https://www.youtube.com/embed/jaJuwKCmJbY
+Platoon,https://www.youtube.com/embed/KztP7SKe0uk
+Basic Instinct,https://www.youtube.com/embed/EhRhuJOJkGg
+Sophie's Choice,https://www.youtube.com/embed/STPJVf6wqCk
+E.T. the Extra-Terrestrial,https://www.youtube.com/embed/qYAETtIIClk
+Top Gun,https://www.youtube.com/embed/giXco2jaZ_4
+The English Patient,https://www.youtube.com/embed/Xk_LRcOFT0c
+One Flew Over the Cuckoo's Nest,https://www.youtube.com/embed/OXrcDonY-B8
+The Empire Strikes Back,https://www.youtube.com/embed/JNwNXF9Y6kY
+The Princess Bride,https://www.youtube.com/embed/O3CIXEAjcc8
+Raiders of the Lost Ark,https://www.youtube.com/embed/XkkzKHCx154
+Aliens,https://www.youtube.com/embed/oSeQQlaCZgU
+12 Angry Men,https://www.youtube.com/embed/_13J_9B5jEk
+A Clockwork Orange,https://www.youtube.com/embed/T54uZPI4Z8A
+GoodFellas,https://www.youtube.com/embed/qo5jJpHtI1Y
+Alien,https://www.youtube.com/embed/jQ5lPt9edzQ
+On the Waterfront,https://www.youtube.com/embed/boekTHsOIY8
+Psycho,https://www.youtube.com/embed/NG3-GlvKPcg
+The Godfather: Part II,https://www.youtube.com/embed/9O1Iy9od7-A
+Annie Hall,https://www.youtube.com/embed/OqVgCfZX-yE
+The Terminator,https://www.youtube.com/embed/k64P4l2Wmeg
+Dead Poets Society,https://www.youtube.com/embed/ye4KFyWu2do
+The Shining,https://www.youtube.com/embed/S014oGZiSdI
+Stand by Me,https://www.youtube.com/embed/jaiZ6ZQoO-Y
+Back to the Future,https://www.youtube.com/embed/qvsgGtivCgs
+Highlander,https://www.youtube.com/embed/omOZyLmNMJs
+High Noon,https://www.youtube.com/embed/g9CR_tib0CA
+Alien3,https://www.youtube.com/embed/KUTaNMJJBa8
+Dracula,https://www.youtube.com/embed/fgFPIh5mvNc
+The Omen,https://www.youtube.com/embed/sS-sXcx30O4
+Die Hard 2,https://www.youtube.com/embed/CvHp7xJZ4_U
+Batman Returns,https://www.youtube.com/embed/Too3qgNaYBE
+Jaws,https://www.youtube.com/embed/U1fu_sA7XhE
+Child's Play,https://www.youtube.com/embed/sjiyV8mtXiU
+Jaws 3-D,https://www.youtube.com/embed/oJ_eYFVxvFE
+Mars Attacks!,https://www.youtube.com/embed/DqtjHWlM4lQ
+The Last of the Mohicans,https://www.youtube.com/embed/yaQeVnN6pUc
+The Fifth Element,https://www.youtube.com/embed/fQ9RqgcR24g
+Batman & Robin,https://www.youtube.com/embed/4RBXypX4qWI
+Men in Black,https://www.youtube.com/embed/1Q4mhYF9aQQ
+The Hunt for Red October,https://www.youtube.com/embed/NSiAsQMBSRA
+Alien: Resurrection,https://www.youtube.com/embed/15g12dGxWX4
+Good Will Hunting,https://www.youtube.com/embed/ReIJ1lbL-Q8
+Titanic,https://www.youtube.com/embed/kVrqfYjkTdQ
+Tomorrow Never Dies,https://www.youtube.com/embed/eqrk7-mx2D0
+Jackie Brown,https://www.youtube.com/embed/G7HkBDNZV7s
+The Big Lebowski,https://www.youtube.com/embed/cd-go0oBF4Y
+Six Days Seven Nights,https://www.youtube.com/embed/P_cWHAPogMo
+Mulan,https://www.youtube.com/embed/KK8FHdFluOQ
+Child's Play 3,https://www.youtube.com/embed/3No1jTRSvg8
+The Godfather: Part III,https://www.youtube.com/embed/UUkG37KSWf0
+Saving Private Ryan,https://www.youtube.com/embed/9CiW_DgxCnQ
+The Jungle Book,https://www.youtube.com/embed/C4qgAaxB_pc
+The Little Mermaid,https://www.youtube.com/embed/ILGyH32AFpI
