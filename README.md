@@ -63,7 +63,7 @@ https://user-images.githubusercontent.com/63545621/190970141-34b6cc20-64d8-4efb-
 
 # How to Thank
 
-Hello dear human, if this repository is beneficial for you in any possible way, I am happy. Happy in my heart to help you. Thanks for visiting the repository. If you want to thank me, no coffee or candy needed, just do care to star the repository. 
+Hello dear human, if this repository is beneficial for you in any possible way, I am happy.If you want to thank me, please do care to star the repository. 
 
 # Thanks Again
 # Love Life
